@@ -11,14 +11,17 @@ It’s being expected to have (at least) the following pages:
 
 ### Login page
 **Description:** Contains username/email and password fields and at least 1 social network 3rd-party API integration (e.g. Facebook, Google, Twitter) for user authentication. Applying basic/advanced form fields validation business-logic would be a plus.
+
 **Functionality:** Authenticates users in the application. If logged in, do a redirect to the user profile page automatically.
 
 ### Sign up page
 **Description:** Contains username, email, password, and repeat password form fields. Applying basic/advanced form fields validation business-logic would be a plus.
+
 **Functionality:** If submitted correctly, creates a new user with specified username and/or email address and password. Social network authentication integrations will be highly appreciated here as well.
 
 ### User profile page
 **Description:** Users can visit other profile pages using user IDs. Each user profile page contains user information (email, username) and posts/comments published on that wall accordingly. It’s possible to access this page as an authenticated or non-authenticated user.
+
 **Functionality**: If not authenticated, you're only allowed:
 - to see user-related information;
 - to see posts located on this "wall".
