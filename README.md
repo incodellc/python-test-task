@@ -6,8 +6,8 @@ Optional: comments may contain other comments (responses).
 
 ### Prerequisites
 It’s being expected to have (at least) the following pages:
-• login/sign up pages;
-• user profile page.
+- login/sign up pages;
+- user profile page.
 
 ### Login page
 **Description:** Contains username/email and password fields and at least 1 social network 3rd-party API integration (e.g. Facebook, Google, Twitter) for user authentication. Applying basic/advanced form fields validation business-logic would be a plus.
